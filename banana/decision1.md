@@ -1,10 +1,10 @@
 # Use the HPA
 
-**Author:** [@chrisevans](https://app.slack.com/team/U90HYPJDD) 
+Author: [@chrisevans](https://app.slack.com/team/U90HYPJDD) 
 
-**Category:** `kubernetes`
+Category: `kubernetes`
 
-**Date:** 2020-04-27
+Date: 2020-04-27
 
 ## Context
 
